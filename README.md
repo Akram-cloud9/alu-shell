@@ -1,1 +1,1 @@
-ALU Shell basics repository
+ALU Shell projects repository
